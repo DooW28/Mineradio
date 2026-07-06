@@ -1,5 +1,7 @@
 # Mineradio
 
+> 本仓库基于 [XxHuberrr/Mineradio](https://github.com/XxHuberrr/Mineradio) 构建，感谢原作者的出色工作。
+
 ![Mineradio 暗场启动页](./docs/assets/readme/cinema-beat-smoke.png)
 
 Mineradio 是一款 Windows 桌面沉浸式音乐播放器，把天气电台、搜索播放、歌词舞台、粒子视觉和 3D 歌单架组合成一个更接近现场感的私人音乐空间。
