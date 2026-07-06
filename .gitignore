@@ -8,11 +8,14 @@ out/
 release/
 releases/
 win-unpacked/
+linux-unpacked/
 *.exe
 *.msi
+*.deb
 *.blockmap
 *.zip
 *.7z
+*.tar.gz
 *.asar
 
 # User data and private state
@@ -45,3 +48,8 @@ tmp/
 *.png.tmp
 verification/
 screenshots/
+
+# Transient files
+Cloning
+Downloading
+*.backup
